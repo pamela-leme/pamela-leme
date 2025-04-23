@@ -18,7 +18,7 @@
   - E é claro, nunca deixando de praticar meus conhecimentos atuais: HTML/CSS/JavaScript e Python!
 
 - Como sou estudante de ADS, estou em busca de um estágio na área do desenvolvimento (Web, Front-End, Back-End ou Full-Stack)! Até lá, farei minhas contribuições em repositórios aqui no GitHub e buscarei atuar como freelancer.
-  - Caso queira dar uma força:<br>*Conecte-se comigo:* <a href="https://linkedin.com/in/pam-leme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pam-leme" height="30" width="40" /></a><br>*Ou entre em contato:* **pam.leme314@gmail.com**
+  - Caso queira dar uma força:<br>*Conecte-se comigo:* <a href="https://linkedin.com/in/pam-leme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pam-leme" height="30" width="40" /></a> (Ainda não tem muito conteúdo, mas irei atualizar meu LinkedIn conforme atualizo meu GitHub.)<br>*Ou entre em contato:* **pam.leme314@gmail.com**
 
 -  Aliás, possuo certificação em criação e design de jogos 2D, além de uma (quase) certificação em Design Gráfico. Isso pode se tornar algo, futuramente, quem sabe...
 
