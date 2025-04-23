@@ -32,4 +32,4 @@
     </p>
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=pamela-leme&show_icons=true alt=pamela-leme/> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=pamela-leme&show_icons=true&theme=transparent> </p>
