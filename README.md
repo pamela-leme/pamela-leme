@@ -12,9 +12,10 @@
 <p align="left">Como eu aprendi recentemente a usar Git/GitHub, os arquivos dos projetos citados foram perdidos, então tentarei refazê-los com uma qualidade um pouco melhor, já que meu cohecimento atual é mais avançado que naquela época.</p>
 
 - O que estou estudando:
+  - Node.js
   - React
-  - Figma
-  - WordPress
+  - Vue.js
+  - Angular (TypeScript)
   - E é claro, nunca deixando de praticar meus conhecimentos atuais: HTML/CSS/JavaScript e Python!
 
 - Como sou estudante de ADS, estou em busca de um estágio na área do desenvolvimento (Web, Front-End, Back-End ou Full-Stack)! Até lá, farei minhas contribuições em repositórios aqui no GitHub e buscarei atuar como freelancer.
